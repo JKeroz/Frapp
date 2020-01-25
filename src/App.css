@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+/* .particles {
+  position: fixed;
+  height: 100;
+  width: 100%;
+  z-index: 
+} */
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
