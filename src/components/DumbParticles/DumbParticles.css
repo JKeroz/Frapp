@@ -1,7 +1,7 @@
 .particles {
-    position: absolute;
+    margin-top: -28px;
+    position: fixed;
     height: 100%;
     width: 100%;
     z-index: -1;
-    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
 }

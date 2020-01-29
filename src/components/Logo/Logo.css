@@ -1,3 +1,6 @@
 .Tilt {
+    margin-top: -90px;
+    margin-left: -14px;
+    position: fixed;
     background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
 }
