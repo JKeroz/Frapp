@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Frapp/static/css/main.12090021.chunk.css",
+    "main.js": "/Frapp/static/js/main.9201c88e.chunk.js",
+    "main.js.map": "/Frapp/static/js/main.9201c88e.chunk.js.map",
+    "runtime-main.js": "/Frapp/static/js/runtime-main.1a591adf.js",
+    "runtime-main.js.map": "/Frapp/static/js/runtime-main.1a591adf.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Frapp/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.24c7e601.chunk.js": "/Frapp/static/js/2.24c7e601.chunk.js",
+    "static/js/2.24c7e601.chunk.js.map": "/Frapp/static/js/2.24c7e601.chunk.js.map",
+    "index.html": "/Frapp/index.html",
+    "precache-manifest.e6d3ebd7794f25a891ec466d2210d211.js": "/Frapp/precache-manifest.e6d3ebd7794f25a891ec466d2210d211.js",
+    "service-worker.js": "/Frapp/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Frapp/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.12090021.chunk.css.map": "/Frapp/static/css/main.12090021.chunk.css.map",
+    "static/js/2.24c7e601.chunk.js.LICENSE": "/Frapp/static/js/2.24c7e601.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a591adf.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.24c7e601.chunk.js",
+    "static/css/main.12090021.chunk.css",
+    "static/js/main.9201c88e.chunk.js"
+  ]
+}
