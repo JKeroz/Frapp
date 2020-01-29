@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cacafcf4412e82252a1eeae1980d73b",
+    "revision": "b816c72cd771982979d65046bf5f3c2e",
     "url": "/Frapp/index.html"
   },
   {
