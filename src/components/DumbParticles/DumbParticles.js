@@ -15,7 +15,7 @@ class DumbParticles extends Component {
                                     "color":"#FFFFFF"
                                     },
                         "number": {
-                            "value": 40,
+                            "value": 45,
                             "density": {
                                 "enable": true,
                                 "value_area": 400
