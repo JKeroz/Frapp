@@ -1,5 +1,5 @@
-import React, { Component } from './node_modules/react';
-import Particles from './node_modules/react-particles-js';
+import React, { Component } from 'react';
+import Particles from 'react-particles-js';
 import './DumbParticles.css';
 
 class DumbParticles extends Component {
