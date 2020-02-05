@@ -1,11 +1,11 @@
 {
   "name": "frapp",
   "homepage": "https://JKeroz.github.iu/Frapp",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "engines": {
-    "node": "12.14.0"
+    "node": "12.13.0"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
