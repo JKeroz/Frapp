@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
-import Navigation from './components/Navigation/Navigation.js';
+import Navigation from './components/Navigation/Navigation';
 import Logo from './components/Logo/Logo';
 import './App.css';
 import Rank from './components/Rank/Rank';
