@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
-import Signin from './Components/Signin/Signin';
-import Register from './Components/Register/Register';
+import Signin from './Components/Signin/Signin.js';
+import Register from './Components/Register/Register.js';
 import Navigation from './Components/Navigation/Navigation.js';
-import Logo from './Components/Logo/Logo';
+import Logo from './Components/Logo/Logo.js';
 import './App.css';
-import Rank from './Components/Rank/Rank';
-import ImageLinkForm from './Components/ImageLinkForm/ImageLinkForm';
-import FaceRecognition from './Components/FaceRecognition/FaceRecognition';
-import DumbParticles from './Components/DumbParticles/DumbParticles';
+import Rank from './Components/Rank/Rank.js';
+import ImageLinkForm from './Components/ImageLinkForm/ImageLinkForm.js';
+import FaceRecognition from './Components/FaceRecognition/FaceRecognition.js';
+import DumbParticles from './Components/DumbParticles/DumbParticles.js';
 
 const initialState = {
     input: '',
