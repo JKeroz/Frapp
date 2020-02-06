@@ -1,7 +1,7 @@
 import React from 'react';
 import Tilt from 'react-tilt';
 import './Logo.css';
-import monkey from './monkeylogo2.png';
+import monkey from './frapplogo.png';
 
 const Logo = () => {
     return (

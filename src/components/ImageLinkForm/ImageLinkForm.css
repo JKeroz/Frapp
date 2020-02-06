@@ -6,3 +6,8 @@
     background-color:#708090;
     background-size: 64px 128px;
 }
+
+.detect {
+    border-color: white;
+    background: linear-gradient(89deg, #fc00ff 0%, #00dbde 100%)
+}
