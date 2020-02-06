@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Frapp/static/css/main.37547033.chunk.css",
-    "main.js": "/Frapp/static/js/main.b92c024d.chunk.js",
-    "main.js.map": "/Frapp/static/js/main.b92c024d.chunk.js.map",
+    "main.css": "/Frapp/static/css/main.04c52fc6.chunk.css",
+    "main.js": "/Frapp/static/js/main.1e3af247.chunk.js",
+    "main.js.map": "/Frapp/static/js/main.1e3af247.chunk.js.map",
     "runtime-main.js": "/Frapp/static/js/runtime-main.1a591adf.js",
     "runtime-main.js.map": "/Frapp/static/js/runtime-main.1a591adf.js.map",
     "static/css/2.eb45ad44.chunk.css": "/Frapp/static/css/2.eb45ad44.chunk.css",
     "static/js/2.cf8d355a.chunk.js": "/Frapp/static/js/2.cf8d355a.chunk.js",
     "static/js/2.cf8d355a.chunk.js.map": "/Frapp/static/js/2.cf8d355a.chunk.js.map",
     "index.html": "/Frapp/index.html",
-    "precache-manifest.108d21e85458ae5d93054db8458f24f1.js": "/Frapp/precache-manifest.108d21e85458ae5d93054db8458f24f1.js",
+    "precache-manifest.047ec11202cb2fc4b9e29288789c9e98.js": "/Frapp/precache-manifest.047ec11202cb2fc4b9e29288789c9e98.js",
     "service-worker.js": "/Frapp/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/Frapp/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.37547033.chunk.css.map": "/Frapp/static/css/main.37547033.chunk.css.map",
-    "static/js/2.cf8d355a.chunk.js.LICENSE": "/Frapp/static/js/2.cf8d355a.chunk.js.LICENSE"
+    "static/css/main.04c52fc6.chunk.css.map": "/Frapp/static/css/main.04c52fc6.chunk.css.map",
+    "static/js/2.cf8d355a.chunk.js.LICENSE": "/Frapp/static/js/2.cf8d355a.chunk.js.LICENSE",
+    "static/media/frapplogo.png": "/Frapp/static/media/frapplogo.a3558cf5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1a591adf.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.cf8d355a.chunk.js",
-    "static/css/main.37547033.chunk.css",
-    "static/js/main.b92c024d.chunk.js"
+    "static/css/main.04c52fc6.chunk.css",
+    "static/js/main.1e3af247.chunk.js"
   ]
 }

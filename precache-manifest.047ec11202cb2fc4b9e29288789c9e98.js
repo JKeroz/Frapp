@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9799285a995e725ca39388a931df9e0b",
+    "revision": "fcf6691633bb6ea4a2faf747c9e92236",
     "url": "/Frapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Frapp/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "248d2163f516f4a47ab7",
-    "url": "/Frapp/static/css/main.37547033.chunk.css"
+    "revision": "71d0d1261b22d1951f59",
+    "url": "/Frapp/static/css/main.04c52fc6.chunk.css"
   },
   {
     "revision": "a9eaef51f70d1e309a8a",
@@ -20,11 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Frapp/static/js/2.cf8d355a.chunk.js.LICENSE"
   },
   {
-    "revision": "248d2163f516f4a47ab7",
-    "url": "/Frapp/static/js/main.b92c024d.chunk.js"
+    "revision": "71d0d1261b22d1951f59",
+    "url": "/Frapp/static/js/main.1e3af247.chunk.js"
   },
   {
     "revision": "20bcce5174a46ea9286d",
     "url": "/Frapp/static/js/runtime-main.1a591adf.js"
+  },
+  {
+    "revision": "a3558cf5999d40d82ee79671067b0549",
+    "url": "/Frapp/static/media/frapplogo.a3558cf5.png"
   }
 ]);
